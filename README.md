@@ -27,14 +27,17 @@ I'm a Computer Science and Mathematics student at the University of Maryland. Se
 
 ### 📊 Stats
 
-![Shrinav's GitHub stats](https://github-readme-stats-git-addprogressrankicon-rickstaa.vercel.app/api?username=lokashrinav\&rank_icon=progress)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokashrinav&layout=compact)
-
-[![Shrinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=lokashrinav)](https://github.com/lokashrinav/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=lokashrinav&theme=onestar&row=1&column=3)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Recent Activity](https://github-readme-activity-graph.cyclic.app/graph?username=lokashrinav&theme=react-dark)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=lokashrinav&theme=gruvbox&border_radius=4.5) -->
+<div style="display: flex; flex-direction: row; justify-content: space-around;">
+    <div>
+        ![Shrinav's GitHub stats](https://github-readme-stats-git-addprogressrankicon-rickstaa.vercel.app/api?username=lokashrinav&rank_icon=progress)
+    </div>
+    <div>
+        ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokashrinav&layout=compact)
+    </div>
+    <div>
+        [![Shrinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=lokashrinav)](https://github.com/lokashrinav/github-readme-stats)
+    </div>
+    <div>
+        [![trophy](https://github-profile-trophy.vercel.app/?username=lokashrinav&theme=onestar&row=1&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+    </div>
+</div>
