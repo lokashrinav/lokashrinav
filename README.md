@@ -2,7 +2,7 @@
 
 ### About Me
 
-I'm a Computer Science and Mathematics student at the University of Maryland. 
+I'm a Computer Science and Mathematics student at the University of Maryland. Searching for 2025 Internships
 
 ### 🧰 Languages and Tools
 
