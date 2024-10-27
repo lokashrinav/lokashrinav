@@ -27,10 +27,10 @@ I'm a Computer Science and Mathematics student at the University of Maryland. Se
 
 ### 📊 Stats
 
-![Shrinav's GitHub stats](https://github-readme-stats-git-addprogressrankicon-rickstaa.vercel.app/api?username=lokashrinav&rank_icon=progress)
+![Shrinav's GitHub stats](https://github-readme-stats-git-addprogressrankicon-rickstaa.vercel.app/api?username=lokashrinav&rank_icon=progress&theme=transparent)
 
-[![Shrinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=lokashrinav)](https://github.com/lokashrinav/github-readme-stats)
+[![Shrinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=lokashrinav)](https://github.com/lokashrinav/github-readme-stats&theme=transparent)
 
 ### 📈 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokashrinav&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokashrinav&layout=compact&theme=transparent)
