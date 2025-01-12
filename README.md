@@ -4,7 +4,7 @@
 
 Hi there, I'm Shrinav Loka! I'm a Computer Science and Math student at the University of Maryland - College Park. I have a passion for building impactful software, whether it's crafting real-time web applications, diving into backend development, or exploring cutting-edge technologies like AR and AI.
 
-Currently, I'm in the Google Project Matching process for 2025 SWE Internships, and I’d love to make meaningful connections with Googlers who could offer guidance or insights. If you're from Google and happen to see this, I’d be incredibly grateful for your advice or assistance in helping me find a team where I can contribute and grow.
+Currently, I'm in the Google Project Matching process for 2025 US SWE Internships, and I’d love to make meaningful connections with Googlers who could offer guidance or insights. If you're from Google and happen to see this, I’d be incredibly grateful for your advice or assistance in helping me find a team where I can contribute and grow.
 
 ### 🧰 Languages and Tools
 
