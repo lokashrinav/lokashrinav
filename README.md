@@ -32,5 +32,3 @@ Currently, I'm in the Google Project Matching process for 2025 SWE Internships, 
 ![Shrinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=lokashrinav&show_icons=true&theme=transparent)
 
 ![Shrinav's GitHub stats](https://github-readme-stats-git-addprogressrankicon-rickstaa.vercel.app/api?username=lokashrinav&rank_icon=progress&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokashrinav&langs_count=10&hide=html,css,javascript,python,typescript,kotlin)
