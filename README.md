@@ -31,4 +31,4 @@ Hi there, I'm Shrinav Loka! I'm a Computer Science and Math student at the Unive
 
 ![Shrinav's GitHub stats](https://github-readme-stats-git-addprogressrankicon-rickstaa.vercel.app/api?username=lokashrinav&rank_icon=progress&theme=transparent)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lokashrinav&theme=transparent)
+![Contribution Snake](https://github.com/lokashrinav/lokashrinav/blob/output/github-contribution-grid-snake.svg)
