@@ -2,7 +2,7 @@
 
 ### About Me
 
-Hi there, I'm Shrinav Loka! I'm a Computer Science and Math student at the University of Maryland - College Park. I have a passion for building impactful software, whether it's crafting real-time web applications, diving into backend development, or exploring cutting-edge technologies like AR and AI.
+Hi there, I'm Shrinav Loka! I'm a Computer Science and Math student at the University of Maryland - College Park. I just want to have fun coding. 
 
 ### 🧰 Languages and Tools
 
