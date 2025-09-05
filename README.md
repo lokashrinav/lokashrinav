@@ -28,5 +28,3 @@ Hi, I'm Shrinav Loka, a Computer Science and Math student at the University of M
 ### 📊 Stats
 
 ![Shrinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=lokashrinav&show_icons=true&theme=transparent)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=lokashrinav&theme=github-compact)
