@@ -2,7 +2,7 @@
 
 ### About Me
 
-Hi, I'm Shrinav Loka, a Computer Science and Math student at the University of Maryland - College Park. I just want to have fun coding. 
+Hi, I'm Shrinav Loka, a Computer Science and Math student at the University of Maryland - College Park. Let's have fun coding!
 
 ### 🧰 Languages and Tools
 
